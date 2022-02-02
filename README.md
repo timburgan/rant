@@ -1,3 +1,1 @@
 
-  
-![](mumfy-rant.gif)
