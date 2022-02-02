@@ -4,4 +4,3 @@
 
 "Interviewing about attrition? Isn't it too late. They've already left"
 
-"I don't like people with silly names in their zoom"
